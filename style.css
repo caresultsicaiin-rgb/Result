@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>Foundation Result Demo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+    <div class="logo">ICAI</div>
+
+    <div class="heading">
+        <h2>THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA</h2>
+        <p>DEMO RESULT PORTAL</p>
+    </div>
+</header>
+
+<main class="container">
+
+    <h2 class="section-title">Check Results</h2>
+
+    <div class="result-box">
+
+        <a href="foundation.html" class="result-link">
+            FOUNDATION
+        </a>
+
+        <span class="disabled-link">
+            INTERMEDIATE
+        </span>
+
+        <span class="disabled-link">
+            INTERMEDIATE - UNIT 1
+        </span>
+
+        <span class="disabled-link">
+            INTERMEDIATE - UNIT 2
+        </span>
+
+    </div>
+
+    <h2 class="section-title">Check Merit List</h2>
+
+    <div class="result-box">
+
+        <span class="disabled-link">
+            FOUNDATION
+        </span>
+
+        <span class="disabled-link">
+            INTERMEDIATE
+        </span>
+
+    </div>
+
+</main>
+
+<footer class="disclaimer">
+
+    <h3>DISCLAIMER</h3>
+
+    <p>
+        The result given is correct at the time of publication of
+        the result as printed above. Neither the Institute of
+        Chartered Accountants of India nor any of its offices
+        take any responsibility for any inadvertent error that
+        may have crept in the result being published on the
+        internet. The result published on the internet cannot be
+        treated as original mark sheet. The original mark sheets
+        issued by the Institute of Chartered Accountants of India
+        alone should be treated authentic and final in this regard.
+    </p>
+
+    <p class="demo-note">
+        Independent demonstration project – Not an official ICAI website.
+    </p>
+
+</footer>
+
+</body>
+</html>
